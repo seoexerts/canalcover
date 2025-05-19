@@ -1,1 +1,1 @@
-Sitemap: seoexerts/sitemap.xml
+Sitemap: https://github.com/seoexerts/sitemap.xml
